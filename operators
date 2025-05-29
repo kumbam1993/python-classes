@@ -1,1 +1,94 @@
+1. Arithmetic Operators
+------------------------
++, -, *, **[Power operator], /, //[Floor Division], %[Modulo]
+
+2. Assignment Operators:
+-------------------------
+=, +=, -=, *=, /=, %=
+
+3. Comparision Operators:
+--------------------------
+==, !=, <, >, <=, >=
+
+4. Logical Boolean operators:
+------------------------------
+&, |, ^, not   [and ,or, not}
+
+1. Arithmetic Operators
+======================
++, -, *, **[Power operator], /, //[Floor Division], %[Modulo]
+
+ex of arithmetic operators
+--------------------------
+>>> a = 10
+>>> b = 5
+>>> print("a :", a)
+a : 10
+>>> print("b :", b)
+b : 5
+>>> print("a+b :", a+b)
+a+b : 15
+>>> print("a-b :", a-b)
+a-b : 5
+>>> print("a*b :", a*b)
+a*b : 50
+>>> print("a/b :", a/b)
+a/b:2.0
+
+
+ex:write programe betweeen * and ** operator
+
+a = 10
+b = 3
+
+print("a*b :",a*b) #30
+print("a**b :",a**b)  #1000
+
+ex :write program between / and // operators?
+
+a=10
+b=2
+print (a/b) #5.0
+print(a//b) #5 both aperands are int values
+print(10/2.0) # 5.0 one aperand is float and int
+2. Assignment Operators:
+=======================
+=, +=, -=, *=, /=, %=
+
+examples:
+--------
+a=10
+a+=5
+print(a) #15
+
+a=20
+a-=10
+print(a) #!0
+a=10
+a*=5
+print(a) #50
+
+ a=10
+ a/=2
+print(a) #5.0
+ a=10
+a%=5
+print(a) #0
+
+3. Comparision Operators:
+--------------------------
+==, !=, <, >, <=, >=
+
+a=10
+b=20
+print(a == b) #Flase
+print(a != b) #true
+print(a < b) #true
+print(a <= b) #true
+print(a > b) #flase
+print(a >= b) #false
+
+
+
+
 

@@ -1,6 +1,7 @@
 1. Arithmetic Operators
 ------------------------
 +, -, *, **[Power operator], /, //[Floor Division], %[Modulo]
+order-(),**,*,/,//,%,+,-
 
 2. Assignment Operators:
 -------------------------
